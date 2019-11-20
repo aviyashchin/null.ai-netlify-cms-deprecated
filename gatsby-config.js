@@ -8,7 +8,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-drift',
       options: {
-        appId: 'YOUR-APP-ID',
+        appId: '74pm7yfuavkw',
       },
     },
     'gatsby-plugin-react-helmet',
